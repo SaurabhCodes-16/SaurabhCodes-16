@@ -11,7 +11,7 @@ Working in tech made me realize that innovation knows no boundaries. It's a spac
 ### 🔥 Motivation Corner
 
 <p align="center">
-  <img src="https://i.imgur.com/gJiT5ZP.gif" width="300" alt="Rengoku Flame Hashira">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F222573&psig=AOvVaw0b62F7b4Lps1wN6W2iyFLf&ust=1751719128084000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC65LWco44DFQAAAAAdAAAAABAE width="300" alt="Rengoku Flame Hashira">
 </p>
 
 <p align="center"><em>"Set your heart ablaze!"</em></p>
