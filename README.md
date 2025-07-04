@@ -5,26 +5,26 @@
 ### Vision
 Working in tech made me realize that innovation knows no boundaries. It's a space where you can build endlessly, learn constantly, and yes — earn sustainably. I'm on a journey to create something impactful, something that makes a real dent where our society needs it most.
 ---
-- 🔭 I’m currently working on:  
+-  I’m currently working on:  
   `YOLOv8 + LLM based Spatial-Temporal Scene Graph pipeline`  
   `Criminal Management System with role-based dashboards`  
   `AI-powered Job Fraud Detector`
 
-- 🌱 Currently learning:  
+-  Currently learning:  
   Deep Learning | Model Optimization | DevOps
 
-- 💬 Ask me about:  
+-  Ask me about:  
   Node.js | Python | React | APIs | LLMs | GitHub Automation
 
-- 📫 Reach me at:  
+-  Reach me at:  
   [📧 Email](mailto:spssgzp4@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/saurabh-tiwari-902ba327b) | [🐦 Twitter](https://twitter.com/saurabh_dev)
 
-- ⚡ Fun Fact:  
+-  Fun Fact:  
   I love converting ideas into real-world AI projects using Python & Open Source tools.
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
@@ -36,9 +36,9 @@ Working in tech made me realize that innovation knows no boundaries. It's a spac
 
 
 ### 🔗 Projects Spotlight
-- 🚔 [Criminal Management System](https://github.com/SaurabhCodes-16/Criminal-Managemet-System)
-- 🎥 [Scene Graph Video QA with YOLOv8 + Ollama](https://github.com/SaurabhCodes-16/your-STSG-repo)
-- 🧠 AI-based Job Fraud Detection (private)
+-  [Criminal Management System](https://github.com/SaurabhCodes-16/Criminal-Managemet-System)
+-  [Scene Graph Video QA with YOLOv8 + Ollama](https://github.com/SaurabhCodes-16/your-STSG-repo)
+-  AI-based Job Fraud Detection (private)
 
 ---
 
