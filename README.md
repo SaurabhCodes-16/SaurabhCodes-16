@@ -31,17 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhCodes-16&show_icons=true&theme=radical" alt="Saurabh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhCodes-16&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaurabhCodes-16&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🔗 Projects Spotlight
 - 🚔 [Criminal Management System](https://github.com/SaurabhCodes-16/Criminal-Managemet-System)
