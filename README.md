@@ -8,15 +8,13 @@ Working in tech made me realize that innovation knows no boundaries. It's a spac
 
 ---
 
-### 🔥 Motivation Corner
-
 <p align="center">
   <img src="https://giffiles.alphacoders.com/222/222573.gif" width="300" alt="Rengoku Flame Hashira">
 </p>
 
-<p align="center"><em>"Set your heart ablaze!"</em></p>
+<p align="center"><em>"Write code that sets your heart ablaze!"</em></p>
 
-<p align="center">— <strong>Kyojuro Rengoku</strong></p>
+<p align="center">— <strong>Flame Hashira(me)</strong></p>
 
 ---
 
