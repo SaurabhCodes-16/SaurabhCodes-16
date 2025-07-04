@@ -2,7 +2,7 @@
 <h3 align="center">IT Undergrad | Backend-Focused Developer | Applied AI Enthusiast</h3>
 
 ---
-##Vision
+### Vision
 Working in tech made me realize that innovation knows no boundaries. It's a space where you can build endlessly, learn constantly, and yes — earn sustainably. I'm on a journey to create something impactful, something that makes a real dent where our society needs it most.
 
 - 🔭 I’m currently working on:  
