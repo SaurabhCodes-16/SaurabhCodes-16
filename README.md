@@ -4,7 +4,7 @@
 ---
 ### Vision
 Working in tech made me realize that innovation knows no boundaries. It's a space where you can build endlessly, learn constantly, and yes — earn sustainably. I'm on a journey to create something impactful, something that makes a real dent where our society needs it most.
-
+---
 - 🔭 I’m currently working on:  
   `YOLOv8 + LLM based Spatial-Temporal Scene Graph pipeline`  
   `Criminal Management System with role-based dashboards`  
